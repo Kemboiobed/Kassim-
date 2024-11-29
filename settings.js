@@ -2,15 +2,15 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "50948181169"
-global.ownername = "🌹⃟⃢👑 ༒𝙎-𝙏𝞢𝞜🌹⃟⃢👑"
+global.ownernomer = "50932589537"
+global.ownername = "𓄂⍣⃝𝐆𝚯𝐃🌹✮͢≛⃝𝐊𝚵𝚴𝚸𝚫𝐂𝚮𝚰🪽𝄟✮⃝👑"
 global.ytname = "DRK_ST_Tech"
 global.socialm = "GitHub: DRK-S-TEN"
 global.location = "America/Port-au-Prince"
 
-global.ownernumber = '50948181169'  //creator number
-global.ownername = '𝙎-𝙏𝞢𝞜' //owner name
-global.botname = 'DRK_ST_BUG' //name of the bot
+global.ownernumber = '50932589537'  //creator number
+global.ownername = '𓄂⍣⃝𝐆𝚯𝐃🌹✮͢≛⃝𝐊𝚵𝚴𝚸𝚫𝐂𝚮𝚰🪽𝄟✮⃝👑' //owner name
+global.botname = '𓄂⍣⃝𝐆𝚯𝐃🌹✮𝐊𝚵𝚴𝚸𝚫𝐂𝚮𝚰🪽' //name of the bot
 
 //sticker details
 global.packname = '🗾'
@@ -24,16 +24,16 @@ global.wm = "𝙎-𝙏𝞢𝞜"
 global.link = 'https://whatsapp.com/channel/0029Vakp0UnICVfe3I2Fe72w'
 
 //custom prefix
-global.prefa = ['']
+global.prefa = ['<']
 
 //false=disable and true=enable
-global.autoRecording = false //auto recording
-global.autoTyping = false //auto typing
+global.autoRecording = true //auto recording
+global.autoTyping = true //auto typing
 global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
 global.anti92 = false //auto block +92 
-global.autoswview = true //auto view status/story
+global.autoswview = false //auto view status/story
 
 //menu type 
 //menu type 
